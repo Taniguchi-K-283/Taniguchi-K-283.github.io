@@ -4,7 +4,7 @@
 
 layout: home
 title: "ソフトウェア工学　2025"
-permalink: SoftwareEng2025
+permalink: docs/docs/SoftwareEng2025
 ---
 
 # ソフトウェア工学 2025
