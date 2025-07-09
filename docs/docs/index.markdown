@@ -4,13 +4,10 @@
 
 layout: home
 title: "ソフトウェア工学　2025"
-permalink: docs/docs/softwareEng2025
 ---
 
 # ソフトウェア工学 2025
 
 git/github演習
-
-
 
 [softwareEng Lecture Notes](softwareEng2025.md)
